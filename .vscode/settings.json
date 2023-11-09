@@ -1,0 +1,6 @@
+{
+    "yaml.schemas": {
+        "file:///c%3A/Users/Erick/.vscode/extensions/atlassian.atlascode-3.0.7/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
+        "https://json.schemastore.org/github-workflow.json": "file:///c%3A/Users/Erick/Documents/Cursos/udemy-git-hub-actions/Section%2006/01%20Starting%20Project/.github/workflows/deploy.yml"
+    }
+}
